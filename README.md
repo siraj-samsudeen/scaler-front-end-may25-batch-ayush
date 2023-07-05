@@ -6,3 +6,7 @@
    - [2_Note_30_May_2023.pdf](./2_Note_30_May_2023.pdf)
    - https://codesandbox.io/s/dreamy-robinson-8pemze
    - [js1.js](./js1.js)
+3. [Fullstack : Java Script - 2 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/78327/session?navref=cl_ftr)
+    - Classnotes PDF contains the JSCode typed in VSCode in class [3_Notes_JS__2.pdf](./3_Notes_JS__2.pdf)
+    - JS file copied from PDF file, contains some syntax errors #TODO [js2.js](./js2.js)
+   
