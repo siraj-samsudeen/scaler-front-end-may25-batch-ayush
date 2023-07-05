@@ -29,4 +29,7 @@
     -  Local Folder [react-2](./react-2/)
     - https://react.dev/learn/synchronizing-with-effects
     - https://www.thatjsdude.com/interview/index.html
-    
+9. [Fullstack : React - 3 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/78357/session?navref=cl_dd)
+    - [CodeSandbox](https://codesandbox.io/s/magical-fire-react-3-xsgnjk?file=/src/App.js)
+    = Local Folder [react-3](./react-3/)
+    - https://swapi.dev/
