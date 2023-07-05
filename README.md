@@ -24,4 +24,9 @@
     - https://airbnb.io/javascript/react/
     - Mark's Dev Blog https://blog.isquaredsoftware.com/
     - Ayush used a codesandbox, but could not locate the link. #TODO
-8. 
+8. [Fullstack : React - 2 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/78387/session?navref=cl_dd)
+    - [CodeSandbox](https://codesandbox.io/s/react-2-t2ggl3?file=/src/App.js)
+    -  Local Folder [react-2](./react-2/)
+    - https://react.dev/learn/synchronizing-with-effects
+    - https://www.thatjsdude.com/interview/index.html
+    
