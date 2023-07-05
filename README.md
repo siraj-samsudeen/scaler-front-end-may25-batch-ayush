@@ -36,3 +36,8 @@
 10. [Fullstack : React - 4 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/78345/session?navref=cl_dd)
     - [CodeSandbox](https://codesandbox.io/s/dry-dust-react-4-3c62nq?file=/src/App.js)
     - Local Folder [react-4](./react-4/)
+11. [Fullstack : React Project 1 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/78303/session?navref=cl_dd)
+    - [CodeSandbox](https://codesandbox.io/s/clever-paper-sd8xfc-react-project-sd8xfc)
+    - Local Folder [react-project1](./react-project1/)
+12. [Fullstack : React Project 2 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/78351/session?navref=cl_dd)
+13. [Fullstack : React Project 3 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/78321/session?navref=cl_dd)
