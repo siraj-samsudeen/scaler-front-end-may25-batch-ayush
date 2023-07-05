@@ -33,3 +33,6 @@
     - [CodeSandbox](https://codesandbox.io/s/magical-fire-react-3-xsgnjk?file=/src/App.js)
     = Local Folder [react-3](./react-3/)
     - https://swapi.dev/
+10. [Fullstack : React - 4 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/78345/session?navref=cl_dd)
+    - [CodeSandbox](https://codesandbox.io/s/dry-dust-react-4-3c62nq?file=/src/App.js)
+    - Local Folder [react-4](./react-4/)
