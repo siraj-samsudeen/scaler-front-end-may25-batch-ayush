@@ -12,3 +12,6 @@
 4. [Fullstack : Java Script - 3 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/78393/session?navref=cl_dd)
     - [CodeSandbox](https://codesandbox.io/s/sweet-panini-fsxt66?file=/script.js)
     - [js3.js](./js3.js)
+5. [Fullstack : Java Script - 4 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/78369/session?navref=cl_dd)
+    - [CodeSandbox](https://codesandbox.io/s/js4-or14nn?file=/src/index.js)
+    - [JS4 Index HTML](./js4/index.html)
