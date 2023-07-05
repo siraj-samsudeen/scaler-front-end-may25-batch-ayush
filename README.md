@@ -18,3 +18,10 @@
 6. [Fullstack : Java Script - 5 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/92618/session?navref=cl_dd)
     - [CodeSandbox](https://codesandbox.io/s/js-5-799nq4?file=/src/index.js)
     - [js5.js](./js5.js)
+7. [Fullstack : React - 1 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/78333/session?navref=cl_dd)
+    - Class Notes PDF [7_Note_17_Jun_2023.pdf](./7_Note_17_Jun_2023.pdf)
+    - https://kentcdodds.com/blog/javascript-to-know-for-react
+    - https://airbnb.io/javascript/react/
+    - Mark's Dev Blog https://blog.isquaredsoftware.com/
+    - Ayush used a codesandbox, but could not locate the link. #TODO
+8. 
