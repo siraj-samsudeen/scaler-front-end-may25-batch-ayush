@@ -1,11 +1,13 @@
 import { useEffect, useState } from "react";
+import { useSelector, useDispatch } from "react-redux";
 import useApi from "../hooks/useApi";
-import { Link } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 import { useCartContext } from "../context/cart";
+import { setSelectedCategory } from "../store/header";
 
-const Header = ({ selectedCategory, setSelectedCategory }) => {
+const Header = () => {
   // const [data, setData] = useState([]);
 
   // useEffect(() => {
@@ -14,18 +16,23 @@ const Header = ({ selectedCategory, setSelectedCategory }) => {
   //     .then((res) => res.json())
   //     .then((json) => setData(json));
   // }, []);
+  // const { category } = useParams();
+  const { category } = useSelector((state) => state.header);
+  const dispatch = useDispatch();
   const { data, loading, loadError } = useApi(
     "https://fakestoreapi.com/products/categories"
   );
 
+  const selectedCategory = category || data[0];
   useEffect(() => {
     if (data.length > 0) {
-      setSelectedCategory(data[0]);
+      dispatch(setSelectedCategory(selectedCategory));
     }
   }, [data, setSelectedCategory]);
 
-  const { cart } = useCartContext();
-  console.log("cart value in header ", cart);
+  // const { cart } = useCartContext();
+  const cart = useSelector((state) => state.cart);
+  console.log("cart value from redux in header ", cart);
 
   const totalItems = () => {
     let total = 0;

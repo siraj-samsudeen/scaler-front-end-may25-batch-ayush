@@ -19,12 +19,15 @@ function CartContextProvider({ children }) {
     setCart((prevCart) => {
       // prevCart[product.id].quantity += 1 -> don't do this
       const newCart = { ...prevCart };
+      // if item is not in the cart
       if (!prevCart[product.id]) {
         newCart[product.id] = {
           id: product.id,
           quantity: 1
         };
+        // if the product is already in the cart
       } else {
+        // pull the product from cart
         const newProduct = { ...prevCart[product.id] };
         newProduct.quantity += 1;
         newCart[product.id] = newProduct;

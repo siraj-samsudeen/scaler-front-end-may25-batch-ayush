@@ -41,3 +41,10 @@
     - Local Folder [react-project1](./react-project1/)
 12. [Fullstack : React Project 2 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/78351/session?navref=cl_dd)
 13. [Fullstack : React Project 3 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/78321/session?navref=cl_dd)
+14. [Fullstack : React Project 4 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/78381/session)
+15. [Fullstack : React Project - 5 - Class | Scaler Academy](https://www.scaler.com/academy/mentee-dashboard/class/78297/session)
+    - [Ultimate React Router v6 Guide](https://blog.webdevsimplified.com/2022-07/react-router/)
+    - [Small Projects - YouTube](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8DWL14Wud_m8NeNNbYKOkj)
+    - [Frontend Machine Coding Interview Questions - YouTube](https://www.youtube.com/playlist?list=PLKhlp2qtUcSYQojD5G-ElgHezoCyq2Hgo)
+    - [CodeSandbox](https://codesandbox.io/s/clever-paper-sd8xfc-react-project-sd8xfc) contains updated code from the last 2 sessions on Redux and Thunk
+    - Local Folder [react-project1](./react-project1/) - Contains the updated code from the last 2 sessions - you can do a git compare to see the changes from the session3 - to see what was added for Redux and Thunk

@@ -1,16 +1,22 @@
+import { useSelector, useDispatch } from "react-redux";
 import { useCartContext } from "../context/cart";
+import { addToCartRedux, removeFromCartRedux } from "../store/cart";
 
 const AddToCart = ({ product }) => {
-  const { cart, addToCart, subtractFromCart } = useCartContext();
-  console.log(cart);
+  // const { cart, addToCart, subtractFromCart } = useCartContext();
+  const cart = useSelector((state) => state.cart);
+  const dispatch = useDispatch();
+  console.log("cart value in add to cart", cart);
 
   const handleAdd = (event) => {
-    addToCart(product);
+    // addToCart(product);
+    dispatch(addToCartRedux(product));
     event.stopPropagation();
   };
 
   const handleSubtract = (event) => {
-    subtractFromCart(product);
+    // subtractFromCart(product);
+    dispatch(removeFromCartRedux(product));
     event.stopPropagation();
   };
   const productInCart = cart[product.id];
